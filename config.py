@@ -1,0 +1,3 @@
+TOPIC = "topic-users"
+PARTITION = 0
+KAFKA_SERVER = "192.168.1.7:9092"
